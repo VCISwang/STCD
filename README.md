@@ -1,2 +1,2 @@
 # STCD
-This is the official PyTorch implementation of the submited paper: 《Change detection in remote sensing images based on multi-task network and pseudo-change image generation》
+This is the official PyTorch implementation of the submited paper: 《Segmentation to change detection: a transfer learning-based method for unsupervised change detection in remote sensing images》
